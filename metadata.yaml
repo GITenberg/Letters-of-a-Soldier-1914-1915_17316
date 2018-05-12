@@ -1,0 +1,44 @@
+_repo: Letters-of-a-Soldier-1914-1915_17316
+_version: 0.1.0
+contributor:
+  commentators:
+  - agent_name: Chevrillon, André
+    alias: Chevrillon, Andre
+    birthdate: 1864
+    deathdate: 1957
+    gutenberg_agent_id: '7299'
+    url: http://www.gutenberg.org/2009/agents/7299
+  - agent_name: Clutton-Brock, A. (Arthur)
+    alias: Clutton-Brock, Arthur
+    birthdate: 1868
+    deathdate: 1924
+    gutenberg_agent_id: '6524'
+    url: http://www.gutenberg.org/2009/agents/6524
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lemercier, Eugène Emmanuel
+    alias: Lemercier, Eugene Emmanuel
+    birthdate: 1886
+    deathdate: 1915
+    gutenberg_agent_id: '39934'
+    url: http://www.gutenberg.org/2009/agents/39934
+    wikipedia: http://fr.wikipedia.org/wiki/Eug%C3%A8ne-Emmanuel_Lemercier
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17316'
+  lccn: '17020723'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, French'
+- !lcc 'D501'
+title: Letters of a Soldier, 1914-1915
+url: http://www.gutenberg.org/ebooks/17316
